@@ -1,0 +1,18 @@
+{
+  "name":"widget-space",
+  "version":"0.1.0",
+
+  "author":"Wes Fournier",
+
+  "dependencies":{
+    "express":"3.0.6"
+  },
+  "engines":{
+    "node":"*"
+  },
+
+  "repository":{
+    "type":"git",
+    "url":"git://github.com/quuxtastic/widget-space.git"
+  }
+}
