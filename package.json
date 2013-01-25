@@ -1,8 +1,10 @@
 {
   "name":"widget-space",
   "version":"0.1.0",
+  "description":"",
+  "license":"MIT",
 
-  "author":"Wes Fournier",
+  "author":"Wes Fournier <wes.fournier@gmail.com>",
 
   "dependencies":{
     "express":"3.0.6"
